@@ -1,3 +1,5 @@
+
+
 class Solution {
 public:
     bool search(vector<int>& nums, int target) {
@@ -6,7 +8,7 @@ public:
         
         while(low <= high)
         {
-            int mid = (low + high) / 2;
+            int mid = low + (high-low) / 2;
             if (nums[mid] == target)
                 return true;
 			// with duplicates we can have this contdition, just update left & right
