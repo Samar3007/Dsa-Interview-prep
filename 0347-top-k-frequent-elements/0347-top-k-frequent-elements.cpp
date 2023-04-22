@@ -5,14 +5,19 @@ public:
         for(int i=0; i<nums.size(); i++){
             mp[nums[i]]++;
         }
-        vector<pair<int,int>> vec;
+        
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> minHeap;
+       
         for(auto it:mp){
-            vec.push_back({it.second,it.first});
+            minHeap.push({it.second,it.first});
+            if(minHeap.size()>k){
+                minHeap.pop();
+            }
         }
-        sort(vec.rbegin(),vec.rend());
         vector<int> ans;
-        for(int i=0;i<k;i++){
-            ans.push_back(vec[i].second);
+        while(k--){
+            ans.push_back(minHeap.top().second);
+            minHeap.pop();
         }
         return ans;
     }
