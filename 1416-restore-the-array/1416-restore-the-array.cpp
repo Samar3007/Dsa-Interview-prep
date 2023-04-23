@@ -1,22 +1,27 @@
 class Solution {
-    long long mod=1e9+7;
 public:
-    int c(string &s,int k,int i,vector<int>&dp){
-        if(i>=s.size())return 1;
-        if(s[i]=='0')return 0;
-        int ans=0;
-        if(dp[i]!=-1)return dp[i];
-        long long d=0;
-        for(int j=i;j<s.size();j++){
-            d= d*10 + (s[j]-'0');
-            if(d>k)break;
-            ans = (ans%mod + c(s,k,j+1,dp)%mod)%mod;
+    const int mod = 1e9 + 7;
+    long dp[100001];
+    long help(int idx, string &s, int k)
+    {
+        if (idx == s.size())
+            return 1;
+        if (dp[idx] != -1)
+            return dp[idx];
+        long sum = 0, ans = 0;
+        for (int i = idx; i < s.size(); i++)
+        {
+            sum = (sum * 10 + (s[i] - '0'));
+            if (sum >= 1 and sum <= k)
+                ans = (ans + help(i + 1, s, k)) % mod;
+            else
+                break;
         }
-        dp[i]=ans;
-        return ans;
+        return dp[idx] = ans;
     }
-    int numberOfArrays(string s, int k) {
-       vector<int>dp(s.size()+1,-1);
-        return c(s,k,0,dp);
+    int numberOfArrays(string s, int k)
+    {
+        memset(dp, -1, sizeof(dp));
+        return help(0, s, k);
     }
 };
