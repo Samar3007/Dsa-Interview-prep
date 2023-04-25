@@ -1,20 +1,43 @@
 class SmallestInfiniteSet {
+    unordered_set<int> isPresent;
+    priority_queue<int, vector<int>, greater<int>> addedIntegers;
+    int currentInteger;
+
 public:
-    set<int> st;
     SmallestInfiniteSet() {
-        for(int i =1;i<=1000;i++) st.insert(i);
+        // The positive integer set's first element will be 1.
+        currentInteger = 1;
     }
-    
+
     int popSmallest() {
-        int a = *st.begin();
-        st.erase(a);
-        return a;
+        int answer;
+        // If there are numbers in the min-heap, 
+        // top element is lowest among all the available numbers.
+        if (!addedIntegers.empty()) {
+            answer = addedIntegers.top();
+            isPresent.erase(answer);
+            addedIntegers.pop();
+        } 
+        // Otherwise, the smallest number of large positive set 
+        // denoted by 'currentInteger' is the answer.
+        else {
+            answer = currentInteger;
+            currentInteger += 1;
+        }
+        return answer;
     }
-    
+
     void addBack(int num) {
-        st.insert(num);
+        if (currentInteger <= num || 
+            isPresent.find(num) != isPresent.end()) {
+            return;
+        }
+        // We push 'num' in the min-heap if it isn't already present.
+        addedIntegers.push(num);
+        isPresent.insert(num);
     }
 };
+
 /**
  * Your SmallestInfiniteSet object will be instantiated and called as such:
  * SmallestInfiniteSet* obj = new SmallestInfiniteSet();
