@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<vector<int>> findDifference(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> ans1;
-        vector<int> ans2;
+        set<int> st;
+        vector<int> ans;
         vector<vector<int>> res;
         int match;
         for(int i=0;i<nums1.size();i++){
@@ -13,8 +13,14 @@ public:
                     break;
                 }
             }
-            if(match==1) ans1.push_back(nums1[i]);
+            if(match==1) st.insert(nums1[i]);
         }
+        for(int x : st){
+            ans.push_back(x);
+        }
+        res.push_back(ans);
+        st.clear();ans.clear();
+
         for(int i=0;i<nums2.size();i++){
             match=1;
             for(int j=0;j<nums1.size();j++){
@@ -23,14 +29,14 @@ public:
                     break;
                 }
             }
-            if(match==1) ans2.push_back(nums2[i]);
+            if(match==1) st.insert(nums2[i]);
         }
-        sort( ans1.begin(), ans1.end() );
-        sort( ans2.begin(), ans2.end() );
-        ans1.erase( unique( ans1.begin(), ans1.end() ), ans1.end() );
-        ans2.erase(unique(ans2.begin(),ans2.end()),ans2.end());
-        res.push_back(ans1);
-        res.push_back(ans2);
+        for(int x : st){
+            ans.push_back(x);
+        }
+        st.clear();
+        
+        res.push_back(ans);
         return res;
         
     }
