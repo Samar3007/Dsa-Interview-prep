@@ -14,13 +14,13 @@ public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         map<int,map<int,multiset<int>>> nodes;
         queue<pair<TreeNode*,pair<int,int>>> todo;
-        todo.push({root,{0,0}}); //initial vertical and level
+        todo.push({root,{0,0}});                           //initial vertical and level
         while (!todo.empty()) {
             auto p = todo.front();
             todo.pop();
-            TreeNode* temp = p.first; //x -> vertical , y->level
-            int x = p.second.first, y = p.second.second;
-            nodes[x][y].insert(temp -> val); //inserting to multiset
+            TreeNode* temp = p.first; 
+            int x = p.second.first, y = p.second.second;  //x -> vertical , y->level
+            nodes[x][y].insert(temp -> val);              //inserting to multiset
             if (temp -> left) {
                 todo.push({temp -> left,{x - 1,y + 1}});
             }
@@ -29,9 +29,9 @@ public:
             }
         }
         vector < vector < int >> ans;
-        for (auto k: nodes) {
-            vector < int > col;
-            for (auto q: k.second) {
+        for (auto k: nodes) {                             //insertion for each vertical
+            vector < int > col;                           
+            for (auto q: k.second) {                      //insertion for each level
                 col.insert(col.end(), q.second.begin(), q.second.end());
             }
         ans.push_back(col);
