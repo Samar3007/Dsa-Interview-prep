@@ -3,17 +3,17 @@ public:
     
     long power(long a, long n, long p){
         long res=1;
-        if(n==1) return a;
-        if(n==0) return 1;
-        if(n%2==0){
-            res=power(a,n/2,p);
-            res=res*res;
+        while(n){
+            if(n%2==1){
+                res=(res*a)%p;
+                n--;
+            }
+            else{
+                a=(a*a)%p;
+                n=n/2;
+            }
         }
-        else{
-            res=power(a,n-1,p);
-            res=(res*a);
-        }
-        return res%p;
+        return res;
     }
     
     
