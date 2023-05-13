@@ -1,18 +1,12 @@
 class Solution {
 public:
     int lengthOfLastWord(string s) {
-        stack<char> st;
-        for(int i=0;i<s.length();i++){
-            st.push(s[i]);
-        }
         int count=0;
-        while(!st.empty()){
-            char top=st.top();
-            st.pop();
-            if(top!=' '){
+        for(int i=s.length()-1;i>=0;i--){
+            if(s[i]!=' '){
                 count++;
             }
-            else if(count!=0 && top==' ')
+            else if(count!=0 && s[i]==' ')
                 return count;
         }
         return count;
