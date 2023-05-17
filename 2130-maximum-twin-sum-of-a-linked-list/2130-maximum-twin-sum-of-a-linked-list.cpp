@@ -10,29 +10,46 @@
  */
 class Solution {
 public:
+    
+    ListNode* reverse(ListNode* curr){
+        ListNode* prev = new ListNode();
+        ListNode* next = new ListNode();
+        while (curr != NULL) {
+            // Store next
+            next = curr->next;
+            // Reverse current node's pointer
+            curr->next = prev;
+            // Move pointers one position ahead.
+            prev = curr;
+            curr = next;
+        }
+        return prev;
+    }
+    
+    
     int pairSum(ListNode* head) {
         
         if(head == NULL)
             return 0;
         
-        ListNode* temp = head;
-        stack<int> st;
-        while(temp){
-            st.push(temp->val);
-            temp=temp->next;
-        }
-        int n=st.size();
-        temp=head;
-        int maxi=0;
-        while(n!=0){
-            maxi=max(temp->val+ st.top(),maxi);
-            st.pop();
-            temp=temp->next;
-            n-=2;
-        }
-       
+        ListNode* slow;
+        slow=head;
+        ListNode* fast;
+        fast=head;
         
-       
+        while(fast){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        ListNode* prev=reverse(slow);
+        
+        int maxi=0;
+        while(prev){
+            maxi=max(head->val+prev->val,maxi);
+            head=head->next;
+            prev=prev->next;
+                
+        }
         return maxi;
     }
 };
