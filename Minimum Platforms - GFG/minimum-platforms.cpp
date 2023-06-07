@@ -24,7 +24,8 @@ class Solution{
             else{
                 count--,j++;
             }
-            maxi=max(count,maxi);
+            if(maxi<count)
+                maxi=count;
             
         }
     	
