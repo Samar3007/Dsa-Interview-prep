@@ -1,37 +1,26 @@
 class Solution {
 private:
-    vector<string> res;
-    string temp;
-    unordered_map<char, string> m1;
-    
-    void helper(int idx, string digits){
-        if(idx>=digits.size()){
-            res.push_back(temp);
+    void letterCombinations(string digits, vector<string>& output, string &temp, vector<string>& pad, int index){
+        if(index == digits.size()){
+            output.push_back(temp);
             return;
         }
-        
-        for(char ch : m1[digits[idx]]){
-            temp.push_back(ch);
-            helper(idx+1, digits);
+        string value = pad[digits[index]-'0'];
+        for(auto val:value){
+            temp.push_back(val);
+            letterCombinations(digits, output, temp, pad, index+1);
             temp.pop_back();
         }
     }
-    
 public:
     vector<string> letterCombinations(string digits) {
-        if(digits.size() == 0) return res;
-        
-        m1['2'] = "abc";
-        m1['3'] = "def";
-        m1['4'] = "ghi";
-        m1['5'] = "jkl";
-        m1['6'] = "mno";
-        m1['7'] = "pqrs";
-        m1['8'] = "tuv";
-        m1['9'] = "wxyz";
-        
-        helper(0, digits);
-        
-        return res;
+        if(digits.empty()){
+            return {};
+        }
+        vector<string> pad = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        vector<string> output;
+        string temp;
+        letterCombinations(digits, output, temp, pad, 0);
+        return output;
     }
 };
