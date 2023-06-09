@@ -1,20 +1,25 @@
-class Solution{
+class Solution {
 public:
+
+    void helper(vector<string>& res,vector<int>& chart,int&num,int curr,int idx,int hour,int min){
+        if(hour>11||min>59) return;
+        if(curr==num){
+            string tmp=to_string(hour)+":"+((min<10)?"0":"")+to_string(min);
+            res.push_back(tmp);
+            return;
+        }
+        for(int i=idx;i<chart.size();i++){
+            if(i<4)
+                helper(res,chart,num,curr+1,i+1,hour+chart[i],min);
+            else
+                helper(res,chart,num,curr+1,i+1,hour,min+chart[i]);
+        }
+    }
+    
     vector<string> readBinaryWatch(int num) {
-    vector<string> res;
-
-    // iterate through all possible times
-    for (int h = 0; h < 12; h++) 
-        for (int m = 0; m < 60; m++)
-            // Now store the time in bitset of size 10
-            // where first 4 digits represent hours and
-            // last 6 digits represent minutes, that's why
-            // hours is left shifted 6 bits. If the count of
-            // set bits equals num then append this time in our result
-            if (bitset<10>(h << 6 | m).count() == num)
-                // if minutes is single digit append 0 in front of it
-                res.emplace_back(to_string(h) + (m < 10 ? ":0" : ":") + to_string(m));
-
-    return res;
-}
+        vector<int> chart({1,2,4,8,1,2,4,8,16,32});
+        vector<string> res;
+        helper(res,chart,num,0,0,0,0);
+        return res;
+    }
 };
