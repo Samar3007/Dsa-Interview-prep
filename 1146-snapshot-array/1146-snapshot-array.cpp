@@ -5,7 +5,7 @@ public:
     SnapshotArray(int length) {
         Arr.resize(length);
         for(int i=0;i<length;i++){
-            Arr[i][s_id]=0;
+            Arr[i][0]=0;
         }
         return;
     }
