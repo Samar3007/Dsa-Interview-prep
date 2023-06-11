@@ -21,11 +21,13 @@ public:
     }
     
     int get(int index, int snap_id) {
-        if(Arr[index].find(snap_id)==Arr[index].end()){
-            auto it = --Arr[index].lower_bound(snap_id);
-            return it->second;
+        auto it = Arr[index].upper_bound(snap_id);
+        if(it==Arr[index].begin()){
+            return 0;
         }
-        return Arr[index][snap_id];
+        it--;
+        return it->second;
+        
     }
 };
 
