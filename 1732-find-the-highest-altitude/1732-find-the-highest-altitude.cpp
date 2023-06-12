@@ -4,7 +4,7 @@ public:
         int maxi=0;
         int count=0;      
         
-        for(auto s:gain){
+        for(int s:gain){
             count+=s;
             maxi=max(maxi,count);
         }
