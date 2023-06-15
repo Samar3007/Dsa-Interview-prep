@@ -10,22 +10,18 @@
  */
 class Solution {
 public:
-    ListNode* oddEvenList(ListNode* head) {
-        if(!head || !head->next || !head->next->next){
-            return head;
+    ListNode* oddEvenList(ListNode* head) 
+    {
+        if(!head) return head;
+        ListNode *odd=head, *evenhead=head->next, *even = evenhead;
+        while(even && even->next)
+        {
+            odd->next = odd->next->next;
+            even->next = even->next->next;
+            odd = odd->next;
+            even = even->next;
         }
-        ListNode* odd=head;
-        ListNode* even=head->next;
-        ListNode* eve_st=head->next;
-        while(odd->next && even->next){
-            odd->next=even->next;
-            even->next=odd->next->next;
-            odd=odd->next;
-            even=even->next;
-            
-        }
-        
-        odd->next=eve_st;
+        odd->next = evenhead;
         return head;
     }
 };
