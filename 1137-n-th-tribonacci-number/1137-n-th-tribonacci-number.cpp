@@ -1,15 +1,21 @@
 class Solution {
 public:
-    int func(int ind,vector<int>& dp){
-        if(ind==0) return 0;
-        if(ind==2 || ind==1) return 1;
-       
-        if(dp[ind]!=-1) return dp[ind];
-        return dp[ind]=func(ind-1,dp) + func(ind-2,dp) + func(ind-3,dp);
-    }
     
     int tribonacci(int n) {
-        vector<int> dp( n+1,-1);
-        return func(n,dp);
+        int curr = 0;
+        if(n==2 || n==1) return 1;
+        if(n==0) return 0;
+        int prev3 = 0;
+        int prev2 = 1;
+        int prev1 = 1;
+       
+        for(int i=3;i<=n;i++){
+            curr= prev3 + prev2 + prev1;
+            prev3=prev2;
+            prev2=prev1;
+            prev1=curr;
+        }
+    
+        return curr;
     }
 };
