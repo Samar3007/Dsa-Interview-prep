@@ -6,7 +6,7 @@ public:
         
         for(int s:gain){
             count+=s;
-            maxi=max(maxi,count);
+            if(count>maxi) maxi=count;
         }
         return maxi;
     }
