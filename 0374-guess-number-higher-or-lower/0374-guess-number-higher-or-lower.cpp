@@ -13,12 +13,12 @@ public:
         int l=0;
         int r=n;
         int num=0;
-        while(true){
+        while(l<=r){
             num=(r-l)/2+l;
             if(guess(num)==0) return num;
             else if(guess(num)==-1) r=num-1;
             else l=num+1;
         }
-        
+        return -1;
     }
 };
