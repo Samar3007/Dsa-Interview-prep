@@ -12,24 +12,20 @@
 class Solution {
 public:
     TreeNode* ans=NULL;
-    TreeNode* trav(TreeNode* root, int val){
+    TreeNode* searchBST(TreeNode* root, int val){
         if(root->val==val) ans=root; 
         if(root->left){
             if(ans!=NULL) return ans;
-            trav(root->left,val);
+            searchBST(root->left,val);
             
         }
         if(root->right){
             if(ans!=NULL) return ans;
-            trav(root->right,val);
+            searchBST(root->right,val);
             
         }
         if(ans!=NULL) return ans;
         return NULL;
     }
     
-    TreeNode* searchBST(TreeNode* root, int val) {
-        TreeNode* tree=trav(root,val);
-        return tree;
-    }
 };
