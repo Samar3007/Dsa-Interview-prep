@@ -1,21 +1,43 @@
 class Solution {
 public:
-    long long minCost(vector<int>& n, vector<int>& cost) {
-    vector<long long> id(n.size()), cost_l(n.size());
-    iota(begin(id), end(id), 0);
-    sort(begin(id), end(id), [&](int i, int j){
-        return n[i] < n[j];
-    });
-    for (long long i = 0, psum = 0; i < n.size() - 1; ++i) {
-        psum += cost[id[i]];
-        cost_l[i + 1] = cost_l[i] + psum * (n[id[i + 1]] - n[id[i]]);
+
+    long long calc(vector<int>&nums, vector<int>& cost, long long median){
+
+        long long ans = 0;
+
+         for(int i=0;i<nums.size();i++)
+           ans += abs(1ll*nums[i]-median)*(1ll*cost[i]);
+
+         return ans;  
     }
-    long long res = cost_l.back(), cost_r = 0;
-    for (long long j = n.size() - 1, psum = 0; j > 0; --j) {
-        psum += cost[id[j]];
-        cost_r += psum * (n[id[j]] - n[id[j - 1]]);
-        res = min(res, cost_l[j - 1] + cost_r);
+
+    long long minCost(vector<int>& nums, vector<int>& cost) {
+
+        long long tot = 0;
+        long long sum = 0;
+        int n = nums.size();
+
+        vector<pair<int,int>> vec;
+
+        for(int i=0;i<nums.size();i++)
+            vec.push_back({nums[i],cost[i]});
+
+        sort(vec.begin(),vec.end());
+
+        for(int i=0;i<n;i++)
+        sum += vec[i].second;
+
+        long long median;
+        int i=0;
+
+        while(tot < (sum+1)/2 && i<n){
+
+             tot += 1ll*vec[i].second;
+             median = vec[i].first;
+             i++;
+        }    
+        
+        
+        return calc(nums,cost,median);
     }
-    return res;
-}
 };
