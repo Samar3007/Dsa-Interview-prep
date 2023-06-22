@@ -11,48 +11,20 @@
  */
 class Solution {
 public:
-    int in_pred(TreeNode* root){
-        root=root->left;
-        while(root->right){
-            root=root->right;
-        }
-        
-        return root->val;
-    }
-    
-    int in_successor(TreeNode* root){
-        root=root->right;
-        while(root->left){
-            root=root->left;
-        }
-        
-        return root->val;
-    }
-    
-    TreeNode* deleteNode(TreeNode* root, int key){
-        if(!root) return root;
-        
-        if(root->val > key){
-            root->left=deleteNode(root->left, key);
-        }
-        
-        else if(root->val < key){
-            root->right=deleteNode(root->right, key);
-        }
-        
-        else{
-            TreeNode* temp=root;
-            if(root->left==NULL && root->right==NULL) root=NULL;
-            
-            else if(root->left){
-                root->val=in_pred(root);
-                root->left=deleteNode(root->left,root->val);  
-            }
+    TreeNode* deleteNode(TreeNode* root, int key) {
+        if(root) 
+            if(key < root->val) root->left = deleteNode(root->left, key);     //We frecursively call the function until we find the target node
+            else if(key > root->val) root->right = deleteNode(root->right, key);       
             else{
-                root->val=in_successor(root);
-                root->right=deleteNode(root->right,root->val);
+                if(!root->left && !root->right) return NULL;          //No child condition
+                if (!root->left || !root->right)
+                    return root->left ? root->left : root->right;    //One child contion -> replace the node with it's child
+					                                                //Two child condition   
+                TreeNode* temp = root->left;                        //(or) TreeNode *temp = root->right;
+                while(temp->right != NULL) temp = temp->right;     //      while(temp->left != NULL) temp = temp->left;
+                root->val = temp->val;                            //       root->val = temp->val;
+                root->left = deleteNode(root->left, temp->val);  //        root->right = deleteNode(root->right, temp);		
             }
-        }
         return root;
-    }
+    }   
 };
