@@ -2,12 +2,12 @@ class Solution {
 public:
     vector<vector<int>> res;
     void func(int len, vector<int>& comb, int sum, int num){
-        
+        if(comb.size()>len || sum<0) return;
         if(comb.size()==len && sum==0){
             res.push_back(comb);
             return;
         }
-        if(comb.size()>len || sum<0) return;
+        
         
     
         for(int i=num; i<=9; ++i) {
