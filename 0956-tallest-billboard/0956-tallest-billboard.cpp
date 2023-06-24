@@ -18,7 +18,7 @@ public:
         int ans2=rods[ind]+func(ind+1,diff+rods[ind],rods);
         int ans3=rods[ind]+func(ind+1,diff-rods[ind],rods);
         
-        return dp[ind][offset+diff]=max(ans1,max(ans2,ans3));
+        return dp[ind][offset+diff]=max({ans1,ans2,ans3});
     }
     
     int tallestBillboard(vector<int>& rods) {
