@@ -11,14 +11,18 @@ public:
     }
     
     bool isHappy(int n) {
-        int slow=n, fast=n;
+        if(n<=0) return false;
         
-        do{
+        int slow=n, fast=square(n);
+        if(slow==1 || fast==1) return true;
+        
+        while(slow!=fast){
             slow=square(slow);
             fast=square(square(fast));
-        }while(slow!=fast);
+            if(slow==1 || fast==1) return true;
+        }
         
-        if(slow==1) return 1;
-        return 0;
+        
+        return false;
     }
 };
