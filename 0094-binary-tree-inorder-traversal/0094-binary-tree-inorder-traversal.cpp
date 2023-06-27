@@ -12,17 +12,19 @@
 
 class Solution {
 public:
-    std::vector<int> inOrderTraversal;
+    vector<int> vec;
+    
     vector<int> inorderTraversal(TreeNode* root) {
         traversal(root);
-        return this->inOrderTraversal;
+        return vec;
     }
+    
     void traversal(TreeNode* root) {
         if (root == nullptr) {
             return;
         }
         inorderTraversal(root->left);
-        inOrderTraversal.push_back(root->val);
+        vec.push_back(root->val);
         inorderTraversal(root->right);
     }
 };
