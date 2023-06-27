@@ -15,8 +15,7 @@ public:
     
     int goodNodes(TreeNode* root) {
         if(!root) return 0;
-        int maxi=root->val;
-        return func(root, maxi);
+        return func(root, root->val);
     }
     
     int func(TreeNode* root,int maxi){
