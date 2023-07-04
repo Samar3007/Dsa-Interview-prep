@@ -2,15 +2,17 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         int n=nums.size();
-        if(n==1) return nums[0];
-        sort(nums.begin(),nums.end());
-        
-        int i=0, j=2;
-        while(j+1<n){
-            if(nums[i]!=nums[j]) return nums[i];
-            i=j+1;
-            j=j+3;
+        int ans=0;
+        for(int i=0;i<32;i++){
+            int sum=0;
+            for(int x:nums){
+                x=x>>i;
+                sum+=x&1;
+            }
+            sum=sum%3;
+            ans|=sum<<i; 
         }
-        return nums[n-1];
+        return ans;
     }
 };
+
