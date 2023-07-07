@@ -1,16 +1,14 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        unordered_map<char,int> mpp1(26), mpp2(26);
-        for(char c:ransomNote){
-            mpp1[c-'a']++;
-        }
+        vector<int> count(26,0);
         for(char c:magazine){
-            mpp2[c-'a']++;
+            count[c-'a']++;
         }
-        for(int i=0;i<26;i++){
-            if(mpp1[i]>mpp2[i]) return false; 
+        for(char c:ransomNote){
+            if(--count[c-'a']<0) return false;
         }
+        
         return true;
     }
 };
