@@ -3,6 +3,7 @@ public:
     long long putMarbles(vector<int>& weights, int k) {
         vector<long long> st;
         int n=weights.size();
+        if (k == 1 || n == k) return 0;
         long long min=weights[0]+weights[n-1];
         long long max=weights[0]+weights[n-1];
         
