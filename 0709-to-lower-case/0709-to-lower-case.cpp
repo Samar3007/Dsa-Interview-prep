@@ -1,9 +1,9 @@
 class Solution {
 public:
-    string toLowerCase(string str) {        
-    for (char& c : str) {
-        if (c >= 'A' && c <= 'Z') c += 32;
-    }
-    return str;
+    string toLowerCase(string s) {
+        for(auto& c:s){
+            c=tolower(c);
+        }
+        return s;
     }
 };
