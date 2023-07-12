@@ -1,21 +1,13 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& image, int sr, int sc, int val, int color){
-        if(sr<0 || sr>=image.size() || sc<0 || sc>=image[0].size() || image[sr][sc]!=val || image[sr][sc]==color) return;
-        image[sr][sc]=color;
-        dfs(image,sr+1,sc,val,color);
-        dfs(image,sr-1,sc,val,color);
-        dfs(image,sr,sc+1,val,color);
-        dfs(image,sr,sc-1,val,color);
-    }
-   
+    int dx[4]={0,1,0,-1};
+    int dy[4]={1,0,-1,0};
+
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int val=image[sr][sc];
-        dfs(image,sr,sc,val,color);
-        return image;
-    }
-};
-  /*    int n=image.size(), m=image[0].size();
+        
+        int n=image.size();
+        int m=image[0].size();
         queue<pair<int,int>> q;
         image[sr][sc]=color;
         q.push({sr,sc});
@@ -26,9 +18,9 @@ public:
             q.pop();
             for(int i=0;i<4;i++){
                 int nx=row+dx[i];
-                int ny=row+dy[i];
+                int ny=col+dy[i];
                 if(nx>=0 && nx<n && ny>=0 && ny<m){
-                    if(image[nx][ny]!=color && image[nx][ny]!=0){
+                    if(image[nx][ny]!=color && image[nx][ny]==val){
                         image[nx][ny]=color;
                         q.push({nx,ny});
                     }
@@ -39,5 +31,5 @@ public:
         return image;
         
     }
-    */
+};
     
