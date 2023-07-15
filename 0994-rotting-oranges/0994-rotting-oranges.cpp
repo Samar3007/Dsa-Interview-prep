@@ -15,14 +15,11 @@ public:
             }
         }
         
-        int count=0;
-        
         int lvl=0;
-        
         
         while(!q.empty()){
             int size=q.size();
-            count++;
+       
             for(int i=0;i<size;i++){
                 int nRow=q.front().first.first;
                 int nCol=q.front().first.second;
@@ -50,7 +47,7 @@ public:
                 }
             }
         }
-        if(count==1) return 0;
+     
         return lvl;
     }
 };
