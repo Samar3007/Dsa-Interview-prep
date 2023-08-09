@@ -26,7 +26,7 @@ public:
             if(isSafe(color,graph,i,n,node)){
                 color[node]=i;
                 if(solve(graph,n,m,color,node+1)) return true;
-                color[node]=0;
+                color[node]=5;
             }
         }
         return false;
