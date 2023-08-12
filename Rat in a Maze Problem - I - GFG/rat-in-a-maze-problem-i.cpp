@@ -11,38 +11,32 @@ using namespace std;
 class Solution{
     public:
     
-    void solve(vector<vector<int>> &m, int n, vector<vector<int>> &vis, int row, int col, string s, vector<string>& ans){
+    void solve(vector<vector<int>> &m, int n, vector<vector<int>> &vis, int row, int col, string s,
+    vector<string>& ans, int dRow[], int dCol[]){
         if(row==n-1 && col==n-1){
             ans.push_back(s);
             return;
         }
-        if((row+1)<n && vis[row+1][col]!=1 && m[row+1][col]==1){
+        string dir="DLRU";
+        for(int i=0;i<4;i++){
+            int nextRow=row+dRow[i];
+            int nextCol=col+dCol[i];
+            
+            if(nextRow<n && nextCol<n && nextRow>=0 && nextCol>=0 && vis[nextRow][nextCol]!=1 && m[nextRow][nextCol]==1){
             vis[row][col]=1;
-            solve(m,n,vis,row+1,col,s+'D',ans);
+            solve(m,n,vis,nextRow,nextCol,s+dir[i],ans,dRow,dCol);
             vis[row][col]=0;
-        }
-        if((col-1)>=0 && vis[row][col-1]!=1 && m[row][col-1]==1){
-            vis[row][col]=1;
-            solve(m,n,vis,row,col-1,s+'L',ans);
-            vis[row][col]=0;
-        }
-        if((col+1)<n && vis[row][col+1]!=1 && m[row][col+1]==1){
-            vis[row][col]=1;
-            solve(m,n,vis,row,col+1,s+'R',ans);
-            vis[row][col]=0;
-        }
-        if((row-1)>=0 && vis[row-1][col]!=1 && m[row-1][col]==1){
-            vis[row][col]=1;
-            solve(m,n,vis,row-1,col,s+'U',ans);
-            vis[row][col]=0;
-        }
-    
+            }
+        }    
+       
     }
     
     vector<string> findPath(vector<vector<int>> &m, int n) {
         vector<vector<int>> vis(n,vector<int>(n,0));
         vector<string> ans;
-        if(m[0][0]) solve(m,n,vis,0,0,"",ans);
+        int dRow[4]={1,0,0,-1};
+        int dCol[4]={0,-1,1,0};
+        if(m[0][0]) solve(m,n,vis,0,0,"",ans,dRow,dCol);
         return ans;
         
     }
