@@ -10,25 +10,29 @@ using namespace std;
 
 class Solution{
   public:
-    int solve(int ind, int price[], vector<vector<int>>& dp, int n){
-        if(ind==0){
-            return n*price[0];
-        }
-        if(dp[ind][n]!=-1) return dp[ind][n];
-        int notTake =  0 + solve(ind-1,price,dp,n);
-        int take = INT_MIN, rod_len=ind+1;
-        
-        if(rod_len<=n){
-            take=price[ind] + solve(ind,price,dp,n-rod_len);
-        }
-        
-        return dp[ind][n] = max(take,notTake);
-    }
+  
     int cutRod(int price[], int n) {
         vector<vector<int>> dp(n,vector<int>(n+1,-1));
-        return solve(n-1,price,dp,n);
+        for(int T=0;T<=n;T++){
+            dp[0][T]=T*price[0];
+        }
         
+        for(int ind=1;ind<n;ind++){
+            for(int T=0;T<=n;T++){
+                
+                int notTake =  0 + dp[ind-1][T];
+                int take = INT_MIN, rod_len=ind+1;
+                if(rod_len<=T){
+                   take=price[ind] + dp[ind][T-rod_len];
+                }
+
+                dp[ind][T] = max(take,notTake);
+            }
+        }
+        return dp[n-1][n];
     }
+        
+    
 };
 
 //{ Driver Code Starts.
