@@ -12,24 +12,29 @@ class Solution{
   public:
   
     int cutRod(int price[], int n) {
-        vector<vector<int>> dp(n,vector<int>(n+1,-1));
+        vector<int> prev(n+1,0);
+        
         for(int T=0;T<=n;T++){
-            dp[0][T]=T*price[0];
+            prev[T]=T*price[0];
         }
         
         for(int ind=1;ind<n;ind++){
+            
+            vector<int> curr(n+1,0);
+            
             for(int T=0;T<=n;T++){
                 
-                int notTake =  0 + dp[ind-1][T];
+                int notTake =  0 + prev[T];
                 int take = INT_MIN, rod_len=ind+1;
                 if(rod_len<=T){
-                   take=price[ind] + dp[ind][T-rod_len];
+                   take=price[ind] + curr[T-rod_len];
                 }
 
-                dp[ind][T] = max(take,notTake);
+                curr[T] = max(take,notTake);
             }
+            prev=curr;
         }
-        return dp[n-1][n];
+        return prev[n];
     }
         
     
