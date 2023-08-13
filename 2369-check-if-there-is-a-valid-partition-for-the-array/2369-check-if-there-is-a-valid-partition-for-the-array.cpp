@@ -1,28 +1,36 @@
-class Solution {
+class Solution
+{
 public:
-    
-    bool solve(int ind, vector<int>& nums, vector<int>& dp){
-        if(ind==nums.size()) return true;
-        if(dp[ind]!=-1) return dp[ind];
-        if(ind+1<nums.size() && nums[ind]==nums[ind+1]){
-            if(solve(ind+2,nums,dp)) return dp[ind]=true;
+    bool c(vector<int> &v, vector<int> &dp, int i)
+    {
+        int n = v.size();
+        if (i == v.size())
+            return true;
+        if (dp[i] != -1)
+            return dp[i];
+
+        if (i + 1 < n && v[i] == v[i + 1])
+        {
+            if (c(v, dp, i + 2))
+                return dp[i] = true;
         }
-        if(ind+2<nums.size()){
-            if(nums[ind]==nums[ind+1] && nums[ind+1]==nums[ind+2]){
-                if(solve(ind+3,nums,dp)) return dp[ind]=true;
-            }
-            if((nums[ind+2]-nums[ind+1])==1 && (nums[ind+1]-nums[ind])==1){
-                if(solve(ind+3,nums,dp)) return dp[ind]=true;
-            }
+
+        if (i + 2 < n && v[i] == v[i + 2] and v[i] == v[i + 1])
+        {
+            if (c(v, dp, i + 3))
+                return dp[i] = true;
         }
-        
-        return dp[ind]=false;
+        if (i + 2 < n && v[i] + 1 == v[i + 1] && v[i] + 2 == v[i + 2])
+        {
+            if (c(v, dp, i + 3))
+                return dp[i] = true;
+        }
+        return dp[i] = false;
     }
-    
-    bool validPartition(vector<int>& nums) {
-        int n=nums.size();
-        vector<int> dp(n+1,-1);
-        return solve(0,nums,dp);
-        
+    bool validPartition(vector<int> &v)
+    {
+        int n = v.size();
+        vector<int> dp(n + 1, -1);
+        return c(v, dp, 0);
     }
 };
