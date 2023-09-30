@@ -10,29 +10,33 @@ class Solution
     public:
     //Function to modify the matrix such that if a matrix cell matrix[i][j]
     //is 1 then all the cells in its ith row and jth column will become 1.
-    void booleanMatrix(vector<vector<int> > &mat)
+    void booleanMatrix(vector<vector<int> > &matrix)
     {
+        // code here 
         vector<pair<int,int>> vec;
-        int n=mat.size();
-        int m=mat[0].size();
+        int n=matrix.size();
+        int m=matrix[0].size();
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(mat[i][j]==1){
+                if(matrix[i][j]==1){
                     vec.push_back({i,j});
                 }
             }
         }
         
-        for(auto it:vec){
-            int row=it.first;
-            int col=it.second;
-            for(int i=0;i<n;i++){
-                mat[i][col]=1;
+        while(!vec.empty()){
+            auto dim=vec[vec.size()-1];
+            int i=dim.first;
+            int j=dim.second;
+            vec.pop_back();
+            for(int k=0;k<n;k++){
+                matrix[k][j]=1;
             }
-            for(int i=0;i<m;i++){
-                mat[row][i]=1;
+            for(int l=0;l<m;l++){
+                matrix[i][l]=1;
             }
-        }// code here 
+        }
+        
     }
 };
 
