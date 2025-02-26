@@ -8,6 +8,7 @@ Track of leetcode questions
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1477-product-of-the-last-k-numbers) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -109,4 +110,8 @@ Track of leetcode questions
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
