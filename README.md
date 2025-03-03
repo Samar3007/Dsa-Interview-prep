@@ -11,6 +11,7 @@ Track of leetcode questions
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2792-neighboring-bitwise-xor) |
@@ -25,6 +26,7 @@ Track of leetcode questions
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bit Manipulation
 |  |
@@ -114,4 +116,8 @@ Track of leetcode questions
 |  |
 | ------- |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
