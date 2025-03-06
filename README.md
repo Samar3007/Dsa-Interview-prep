@@ -15,12 +15,14 @@ Track of leetcode questions
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2792-neighboring-bitwise-xor) |
+| [3227-find-missing-and-repeated-values](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Matrix
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -45,6 +47,7 @@ Track of leetcode questions
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3227-find-missing-and-repeated-values](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -86,6 +89,7 @@ Track of leetcode questions
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3227-find-missing-and-repeated-values) |
 ## Data Stream
 |  |
 | ------- |
