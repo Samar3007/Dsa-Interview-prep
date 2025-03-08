@@ -53,6 +53,7 @@ Track of leetcode questions
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting
 |  |
 | ------- |
@@ -131,4 +132,8 @@ Track of leetcode questions
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2610-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
