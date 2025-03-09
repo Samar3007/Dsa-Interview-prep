@@ -2,13 +2,12 @@ class Solution {
 public:
     int numberOfAlternatingGroups(vector<int>& colors, int k) {
         int n = colors.size();
-        int left = 0, right = 0, cnt = 0;
-        for(right;right<n+k-1;right++){
-            if(right>0 && colors[right%n]==colors[(right-1)%n]){
-                left = right;
-            }
-            if(right-left >= k-1) cnt++;
+        int ans = 0, cnt = 1;
+        for(int right=1;right<n+k-1;right++){
+            if(colors[right%n]!=colors[(right-1)%n]) cnt++;
+            else cnt=1;
+            if(cnt >= k) ans++;
         }
-        return cnt;
+        return ans;
     }
 };
