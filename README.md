@@ -21,6 +21,7 @@ Track of leetcode questions
 | [3227-find-missing-and-repeated-values](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3483-alternating-groups-ii) |
 ## Matrix
 |  |
@@ -41,6 +42,7 @@ Track of leetcode questions
 | [2478-longest-nice-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2792-neighboring-bitwise-xor) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Track of leetcode questions
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1477-product-of-the-last-k-numbers) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -148,10 +151,15 @@ Track of leetcode questions
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
