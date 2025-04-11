@@ -1,35 +1,28 @@
 class Solution {
 public:
-    bool solve(int num, int len){
-        if(len==2){
-            int first = num%10;
-            int second = num/10;
-            if(first == second) return true;
-        }
-        else{
-            int first = num%10;
-            num/=10;
-            first += num%10;
-            num/=10;
-            int second = num%10;
-            num/=10;
-            second += num%10;
-            if(first == second) return true;
-        }
-        return false;
+    bool solve(int num){
+        
+        int first = num%10;
+        num/=10;
+        first += num%10;
+        num/=10;
+        int second = num%10;
+        num/=10;
+        second += num%10;
+        return(first == second) ;
     }
 
     int countSymmetricIntegers(int low, int high) {
         int cnt=0, i=max(11,low);
         while(i<=min(99,high)){
-            if(solve(i,2)) cnt++;
+            if(i%11==0) cnt++;
             i++;
         }
         i=max(1000,low);
         
 
         while(i<=min(high,9999)){
-            if(solve(i,4)) cnt++;
+            if(solve(i)) cnt++;
             i++;
         }
         return cnt;
