@@ -6,6 +6,7 @@ Track of leetcode questions
 ## Array
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
 | [1364-tuple-with-same-product](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1364-tuple-with-same-product) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1477-product-of-the-last-k-numbers) |
@@ -70,6 +71,7 @@ Track of leetcode questions
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
 | [1364-tuple-with-same-product](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -132,6 +134,7 @@ Track of leetcode questions
 ## Math
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -207,6 +210,7 @@ Track of leetcode questions
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
 | [2681-put-marbles-in-bags](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2681-put-marbles-in-bags) |
 ## Combinatorics
 |  |
