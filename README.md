@@ -16,6 +16,7 @@ Track of leetcode questions
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2249-count-the-hidden-sequences](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -152,6 +153,7 @@ Track of leetcode questions
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1477-product-of-the-last-k-numbers) |
+| [2249-count-the-hidden-sequences](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
