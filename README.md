@@ -8,6 +8,7 @@ Track of leetcode questions
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1364-tuple-with-same-product) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -78,6 +79,7 @@ Track of leetcode questions
 | ------- |
 | [0768-partition-labels](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -105,6 +107,7 @@ Track of leetcode questions
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2308-divide-array-into-equal-pairs) |
