@@ -215,6 +215,7 @@ Track of leetcode questions
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
@@ -291,6 +292,7 @@ Track of leetcode questions
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
