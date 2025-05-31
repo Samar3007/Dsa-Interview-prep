@@ -9,6 +9,7 @@ Track of leetcode questions
 | [0073-set-matrix-zeroes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0075-sort-colors) |
 | [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
+| [0945-snakes-and-ladders](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1364-tuple-with-same-product) |
@@ -60,6 +61,7 @@ Track of leetcode questions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0945-snakes-and-ladders) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -222,6 +224,7 @@ Track of leetcode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0945-snakes-and-ladders) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
