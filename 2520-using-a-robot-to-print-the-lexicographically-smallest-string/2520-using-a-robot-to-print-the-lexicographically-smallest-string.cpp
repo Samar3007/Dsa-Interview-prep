@@ -1,36 +1,37 @@
 class Solution {
 public:
+    
+    char low(vector<int> & freq){    
+        for(int i=0;i<26;i++){
+            if(freq[i]!=0) return 'a'+i;
+        } 
+        return '!';   
+    }
+    
     string robotWithString(string s) {
-        int mini = 1000, n=s.size();
-        vector<char> rightLwt(n);
-        char lowest=s[n-1];
+        stack<char> t;
+        string ans="";  
+        vector<int> freq(26,0);
+        for(char c:s){
+            freq[c-'a']++;
+        }
         
-        for(int i=n-1;i>=0;i--){
-            if(lowest>s[i]){
-                lowest=s[i];
-            }
-            rightLwt[i]=lowest;
+        for(char c:s){
+            t.push(c);
+            freq[c-'a']--; 
+            while(t.size()>0 && t.top()<=low(freq)){
+                char x = t.top(); 
+                ans += x;
+                t.pop();  
+            }    
         }
-
-        string t="", paper="";
-        int i=0;
         
-        while(i<n){
-            t+=s[i];
-            if(i+1<n) lowest = rightLwt[i+1];
-            else lowest = rightLwt[i];
-            
-            while(t.size()>0 && t.back()<=lowest){
-                paper+=t.back();
-                t.pop_back();
-            }
-            i++;
+        while(t.size()>0){
+            ans+= t.top();
+            t.pop();   
         }
-
-        while(!t.empty()){
-            paper+=t.back();
-            t.pop_back();
-        }
-        return paper;
+    
+        return ans;
+      
     }
 };
