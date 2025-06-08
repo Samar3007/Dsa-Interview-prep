@@ -223,6 +223,7 @@ Track of leetcode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0386-lexicographical-numbers) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -328,4 +329,8 @@ Track of leetcode questions
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
