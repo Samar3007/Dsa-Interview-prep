@@ -118,6 +118,7 @@ Track of leetcode questions
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3227-find-missing-and-repeated-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -138,6 +139,7 @@ Track of leetcode questions
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3194-find-words-containing-character) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -152,6 +154,7 @@ Track of leetcode questions
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Design
@@ -191,6 +194,7 @@ Track of leetcode questions
 | [2888-minimum-index-of-a-valid-split](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
@@ -309,6 +313,7 @@ Track of leetcode questions
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Combinatorics
 |  |
 | ------- |
