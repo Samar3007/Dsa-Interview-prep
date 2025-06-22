@@ -80,6 +80,7 @@ Track of leetcode questions
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bit Manipulation
@@ -132,6 +133,7 @@ Track of leetcode questions
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
