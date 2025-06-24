@@ -31,6 +31,7 @@ Track of leetcode questions
 | [2265-partition-array-according-to-given-pivot](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2478-longest-nice-subarray) |
@@ -272,6 +273,7 @@ Track of leetcode questions
 | [0768-partition-labels](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
