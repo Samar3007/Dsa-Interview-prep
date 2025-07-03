@@ -85,6 +85,7 @@ Track of leetcode questions
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Track of leetcode questions
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2792-neighboring-bitwise-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -220,6 +222,7 @@ Track of leetcode questions
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Data Stream
 |  |
@@ -362,4 +365,8 @@ Track of leetcode questions
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0386-lexicographical-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
