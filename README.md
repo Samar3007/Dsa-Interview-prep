@@ -20,6 +20,7 @@ Track of leetcode questions
 | [1477-product-of-the-last-k-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1477-product-of-the-last-k-numbers) |
 | [1656-count-good-triplets](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1656-count-good-triplets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -193,6 +194,7 @@ Track of leetcode questions
 | ------- |
 | [0075-sort-colors](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0594-longest-harmonious-subsequence) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -270,6 +272,7 @@ Track of leetcode questions
 | [0806-domino-and-tromino-tiling](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0868-push-dominoes) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -302,6 +305,7 @@ Track of leetcode questions
 ## Binary Search
 |  |
 | ------- |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
