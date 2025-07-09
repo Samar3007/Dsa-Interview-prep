@@ -8,14 +8,20 @@ public:
         for(int i=1;i<n;i++){
             gaps[i]=startTime[i]-endTime[i-1];
         }
-        vector<int> prefix(n+2);
-        for(int i=1;i<n+2;i++){
-            prefix[i]=prefix[i-1]+gaps[i-1];
+        
+        int i=0, j=0;
+        int ans=0, sum=0;
+        
+        while(j<n+1){
+            sum+=gaps[j];
+            if(j-i+1 > k+1){
+                sum-=gaps[i];
+                i++;
+            }
+            j++;
+            ans=max(ans,sum);
         }
-        int ans=0;
-        for(int i=k+1;i<n+2;i++){
-            ans=max(ans,prefix[i]-prefix[i-k-1]);
-        }
+        
         return ans;
     }
 };
