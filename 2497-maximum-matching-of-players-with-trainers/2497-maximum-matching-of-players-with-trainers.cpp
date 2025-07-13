@@ -12,7 +12,7 @@ public:
                 i++;
                 j++;
             }
-            while(j<m && players[i]>trainers[j]) j++;
+            while(i<n && j<m && players[i]>trainers[j]) j++;
         }
         return cnt;
     }
