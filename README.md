@@ -37,6 +37,7 @@ Track of leetcode questions
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2681-put-marbles-in-bags](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2681-put-marbles-in-bags) |
@@ -200,6 +201,7 @@ Track of leetcode questions
 | [2215-finding-3-digit-even-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -286,6 +288,7 @@ Track of leetcode questions
 | [0868-push-dominoes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
@@ -324,6 +327,7 @@ Track of leetcode questions
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2681-put-marbles-in-bags) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
