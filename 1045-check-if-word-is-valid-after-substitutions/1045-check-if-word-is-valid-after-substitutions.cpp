@@ -1,29 +1,23 @@
 class Solution {
 public:
     bool isValid(string s) {
-        int i=0, j=0;
+        int i=0, n=s.size();
+        vector<char> st;
         
-        while(j<s.size()){
-            s[i]=s[j];
-            i++;
-        
-            if(i>=3){
-                string curr;
-                curr+=s[i-3];
-                curr+=s[i-2];
-                curr+=s[i-1];
-        
-                if(curr=="abc"){
-                    i=i-3;
-                }
+        while(i<n){
+            int len = st.size();
+            if(s[i]=='c'){
+                if(len<2 || st[len-1]!='b' || st[len-2]!='a') return false;
+                st.pop_back();
+                st.pop_back();
             }
-            
-            j++;
+            else{
+                st.push_back(s[i]);
+            }
+            i++;
         }
 
-        s.erase(s.begin()+i, s.end());
-
-        if(s.empty()) return true;
+        if(st.empty()) return true;
         return false;
     }
 };
