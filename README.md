@@ -142,6 +142,7 @@ Track of leetcode questions
 | [0868-push-dominoes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -193,6 +194,7 @@ Track of leetcode questions
 ## Stack
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Sorting
@@ -331,6 +333,7 @@ Track of leetcode questions
 | [0768-partition-labels](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2497-maximum-matching-of-players-with-trainers) |
