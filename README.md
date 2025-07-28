@@ -26,6 +26,7 @@ Track of leetcode questions
 | [2132-convert-1d-array-into-2d-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2249-count-the-hidden-sequences) |
@@ -97,6 +98,7 @@ Track of leetcode questions
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -254,6 +256,7 @@ Track of leetcode questions
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
 |  |
@@ -360,6 +363,7 @@ Track of leetcode questions
 | ------- |
 | [1656-count-good-triplets](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
