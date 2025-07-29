@@ -6,16 +6,17 @@ public:
         vector<int> ans(n);
 
         for(int i=n-1;i>=0;i--){
+            int lastInd=i;
+
             for(int j=0;j<32;j++){
                 if(nums[i] & 1<<j){
                     setBit[j]=i;
                 }
+                else{
+                    lastInd=max(lastInd,setBit[j]);
+                }
             }
-            int lastInd=-1;
-            for(int j=0;j<32;j++){
-                if(setBit[j]!=-1) lastInd=max(lastInd,setBit[j]);
-            }
-            if(lastInd==-1) lastInd=i;
+
             ans[i]=lastInd-i+1;
         }
 
