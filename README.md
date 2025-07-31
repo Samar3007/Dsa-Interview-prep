@@ -11,6 +11,7 @@ Track of leetcode questions
 | [0135-candy](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0135-candy) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -99,6 +100,7 @@ Track of leetcode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2308-divide-array-into-equal-pairs) |
@@ -293,6 +295,7 @@ Track of leetcode questions
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1986-largest-color-value-in-a-directed-graph) |
