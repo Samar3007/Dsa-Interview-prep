@@ -8,6 +8,7 @@ Track of leetcode questions
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0135-candy) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
@@ -293,6 +294,7 @@ Track of leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0118-pascals-triangle) |
 | [0806-domino-and-tromino-tiling](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0934-bitwise-ors-of-subarrays) |
