@@ -78,6 +78,7 @@ Track of leetcode questions
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Track of leetcode questions
 | [2265-partition-array-according-to-given-pivot](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,6 +209,7 @@ Track of leetcode questions
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -345,6 +348,7 @@ Track of leetcode questions
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
 |  |
 | ------- |
@@ -414,4 +418,8 @@ Track of leetcode questions
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
