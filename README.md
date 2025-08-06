@@ -81,6 +81,7 @@ Track of leetcode questions
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Track of leetcode questions
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3791-fruits-into-baskets-iii) |
 ## Stack
 |  |
 | ------- |
@@ -354,6 +356,7 @@ Track of leetcode questions
 | [2699-count-the-number-of-fair-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3791-fruits-into-baskets-iii) |
 ## Queue
 |  |
 | ------- |
@@ -428,6 +431,7 @@ Track of leetcode questions
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0307-range-sum-query-mutable) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
