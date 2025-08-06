@@ -10,6 +10,7 @@ Track of leetcode questions
 | [0075-sort-colors](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0135-candy) |
+| [0303-range-sum-query-immutable](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0303-range-sum-query-immutable) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -193,6 +194,7 @@ Track of leetcode questions
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2434-design-a-number-container-system) |
@@ -262,6 +264,7 @@ Track of leetcode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1477-product-of-the-last-k-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
