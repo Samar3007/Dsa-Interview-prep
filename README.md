@@ -11,6 +11,7 @@ Track of leetcode questions
 | [0118-pascals-triangle](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0135-candy) |
 | [0303-range-sum-query-immutable](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0307-range-sum-query-mutable) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -195,6 +196,7 @@ Track of leetcode questions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0307-range-sum-query-mutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2434-design-a-number-container-system) |
@@ -424,5 +426,10 @@ Track of leetcode questions
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0307-range-sum-query-mutable) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3790-fruits-into-baskets-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
