@@ -246,6 +246,7 @@ Track of leetcode questions
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0826-soup-servings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1500-count-largest-group) |
@@ -308,6 +309,7 @@ Track of leetcode questions
 | ------- |
 | [0118-pascals-triangle](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0118-pascals-triangle) |
 | [0806-domino-and-tromino-tiling](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -436,4 +438,8 @@ Track of leetcode questions
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0307-range-sum-query-mutable) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
