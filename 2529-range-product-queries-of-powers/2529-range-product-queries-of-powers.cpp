@@ -1,28 +1,35 @@
 class Solution {
 public:
     int mod=1e9+7;
-    vector<int> genArr(int i, int n, int sum){
-        vector<int> temp;
+    // vector<int> genArr(int i, int n, int sum){
+    //     vector<int> temp;
         
-        while(sum != n){
-            int num=1<<i;
-            if(num <= n-sum){
-                sum+=num;
-                temp.push_back(num);
-            }
-            i--;
-        }
-        return temp;
-    }
+    //     while(sum != n){
+    //         int num=1<<i;
+    //         if(num <= n-sum){
+    //             sum+=num;
+    //             temp.push_back(num);
+    //         }
+    //         i--;
+    //     }
+    //     return temp;
+    // }
 
     vector<int> givePowers(int n, int i){
+        // while(1<<i <= n){
+        //     i++;
+        // }
+        // vector<int> res = genArr(i-1,n,0);
+        // sort(res.begin(),res.end());
+        // return res;
+
+        vector<int> arr;
         while(1<<i <= n){
+            if(1<<i & n) arr.push_back(1<<i);
             i++;
         }
-        vector<int> res = genArr(i-1,n,0);
         
-        sort(res.begin(),res.end());
-        return res;
+        return arr;
     }
 
     vector<int> productQueries(int n, vector<vector<int>>& queries) {
