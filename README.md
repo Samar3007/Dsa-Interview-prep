@@ -252,6 +252,7 @@ Track of leetcode questions
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0900-reordered-power-of-2) |
@@ -442,6 +443,7 @@ Track of leetcode questions
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Segment Tree
 |  |
