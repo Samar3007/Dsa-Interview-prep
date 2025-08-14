@@ -172,6 +172,7 @@ Track of leetcode questions
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
