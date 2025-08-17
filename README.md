@@ -256,6 +256,7 @@ Track of leetcode questions
 | [0326-power-of-three](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0900-reordered-power-of-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1477-product-of-the-last-k-numbers) |
@@ -322,6 +323,7 @@ Track of leetcode questions
 | [0118-pascals-triangle](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0118-pascals-triangle) |
 | [0806-domino-and-tromino-tiling](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -352,6 +354,7 @@ Track of leetcode questions
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0940-fruit-into-baskets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -460,4 +463,5 @@ Track of leetcode questions
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
