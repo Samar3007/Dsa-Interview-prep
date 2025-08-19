@@ -43,6 +43,7 @@ Track of leetcode questions
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -264,6 +265,7 @@ Track of leetcode questions
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2802-find-the-punishment-number-of-an-integer) |
