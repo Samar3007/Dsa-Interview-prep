@@ -10,6 +10,7 @@ Track of leetcode questions
 | [0075-sort-colors](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0135-candy) |
+| [0221-maximal-square](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0221-maximal-square) |
 | [0303-range-sum-query-immutable](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0307-range-sum-query-mutable) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0594-longest-harmonious-subsequence) |
@@ -90,6 +91,7 @@ Track of leetcode questions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0073-set-matrix-zeroes) |
+| [0221-maximal-square](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0221-maximal-square) |
 | [0945-snakes-and-ladders](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0945-snakes-and-ladders) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -325,6 +327,7 @@ Track of leetcode questions
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0118-pascals-triangle) |
+| [0221-maximal-square](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0221-maximal-square) |
 | [0806-domino-and-tromino-tiling](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0867-new-21-game) |
