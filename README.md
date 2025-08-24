@@ -22,6 +22,7 @@ Track of leetcode questions
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1364-tuple-with-same-product) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1477-product-of-the-last-k-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -95,6 +96,7 @@ Track of leetcode questions
 | [0221-maximal-square](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0221-maximal-square) |
 | [0945-snakes-and-ladders](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0945-snakes-and-ladders) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3227-find-missing-and-repeated-values) |
@@ -334,6 +336,7 @@ Track of leetcode questions
 | [0867-new-21-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
