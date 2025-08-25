@@ -13,6 +13,7 @@ Track of leetcode questions
 | [0221-maximal-square](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0221-maximal-square) |
 | [0303-range-sum-query-immutable](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0307-range-sum-query-mutable) |
+| [0498-diagonal-traverse](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -94,6 +95,7 @@ Track of leetcode questions
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0221-maximal-square) |
+| [0498-diagonal-traverse](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0945-snakes-and-ladders) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -106,6 +108,7 @@ Track of leetcode questions
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0498-diagonal-traverse) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2132-convert-1d-array-into-2d-array) |
