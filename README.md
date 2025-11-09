@@ -118,6 +118,7 @@ Track of leetcode questions
 | [2132-convert-1d-array-into-2d-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2288-count-operations-to-obtain-zero) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3790-fruits-into-baskets-ii) |
@@ -281,6 +282,7 @@ Track of leetcode questions
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2288-count-operations-to-obtain-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2649-count-total-number-of-colored-cells) |
