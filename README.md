@@ -81,6 +81,7 @@ Track of leetcode questions
 | [3483-alternating-groups-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3583-count-special-triplets](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3583-count-special-triplets) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -169,6 +170,7 @@ Track of leetcode questions
 | [3227-find-missing-and-repeated-values](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3227-find-missing-and-repeated-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3583-count-special-triplets](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3583-count-special-triplets) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -213,6 +215,7 @@ Track of leetcode questions
 | [2308-divide-array-into-equal-pairs](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3583-count-special-triplets](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Design
