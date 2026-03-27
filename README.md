@@ -95,6 +95,7 @@ Track of leetcode questions
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3791-fruits-into-baskets-iii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -302,6 +303,7 @@ Track of leetcode questions
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3830-find-closest-person](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3830-find-closest-person) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Data Stream
 |  |
 | ------- |
