@@ -63,6 +63,7 @@ Track of leetcode questions
 | [2792-neighboring-bitwise-xor](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -365,6 +366,7 @@ Track of leetcode questions
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2262-solving-questions-with-brainpower) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
