@@ -198,6 +198,7 @@ Track of leetcode questions
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/3360-minimum-deletions-to-make-string-k-special) |
