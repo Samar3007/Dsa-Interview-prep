@@ -6,6 +6,7 @@ Track of leetcode questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0118-pascals-triangle) |
@@ -151,6 +152,7 @@ Track of leetcode questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Samar3007/Dsa-Interview-prep/tree/master/0768-partition-labels) |
